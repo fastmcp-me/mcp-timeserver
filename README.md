@@ -2,6 +2,8 @@
 
 A simple MCP server that exposes datetime information to agentic systems and chat REPLs
 
+<a href="https://glama.ai/mcp/servers/tth5eto5n7"><img width="380" height="200" src="https://glama.ai/mcp/servers/tth5eto5n7/badge" alt="MCP-timeserver MCP server" /></a>
+
 ## Components
 
 ### Resources
